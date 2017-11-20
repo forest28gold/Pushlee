@@ -1,0 +1,65 @@
+PODS:
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection (= 2.5.0)
+    - AFNetworking/NSURLSession (= 2.5.0)
+    - AFNetworking/Reachability (= 2.5.0)
+    - AFNetworking/Security (= 2.5.0)
+    - AFNetworking/Serialization (= 2.5.0)
+    - AFNetworking/UIKit (= 2.5.0)
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - Bolts (1.1.3)
+  - Facebook-iOS-SDK (3.21.1):
+    - Bolts (~> 1.0)
+  - MFSideMenu (0.5.5)
+  - Reachability (3.2)
+  - RSBarcodes (0.1)
+  - SVProgressHUD (1.1.2)
+  - TPKeyboardAvoiding (1.2.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - ASIHTTPRequest (~> 1.8)
+  - Facebook-iOS-SDK (~> 3.21)
+  - MFSideMenu (~> 0.5)
+  - RSBarcodes (~> 0.1)
+  - SVProgressHUD (~> 1.1)
+  - TPKeyboardAvoiding (~> 1.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: 0f54cb5d16ce38c1b76948faffb8d5fb705021c7
+  ASIHTTPRequest: 2c8335b49410c0e2ad42829c438e74d454b77590
+  Bolts: 3db0a875235e0c9042b013af13af0f00f79b102c
+  Facebook-iOS-SDK: 18c26e86ab25c17854a2ee2a8f60562099c6600f
+  MFSideMenu: 0493b0f57385dd036cc5443407a31fda6dee81ac
+  Reachability: 1ef8adf5c4e3d362f96515d4278f68dad3c26930
+  RSBarcodes: c4d54f52033f9af3d781230292568529ade14b78
+  SVProgressHUD: da7a49e789af645d9279ffbca62318945a832438
+  TPKeyboardAvoiding: 925e1e1912597d1a4956697eec3bd9656552153c
+
+COCOAPODS: 0.35.0

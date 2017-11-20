@@ -1,0 +1,1 @@
+PODS_PUSHLEE_RSBARCODES_OTHER_LDFLAGS = -framework "AVFoundation" -framework "CoreImage"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__46-[ParseService getReceiptInfoWithCode:Result:]_block_invoke:ParseService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "nCodeNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
